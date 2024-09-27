@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate for pair programming.
 - 📫 How to reach me (webdevelopr2027@gmail.com)
-- 😄 Pronouns: ...
+- 😄 Pronouns: He and him.
 - ⚡ Fun fact: I Don't feel tired even after doing 4hrs of coding straight.
 
 <!---
